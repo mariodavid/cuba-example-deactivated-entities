@@ -1,0 +1,8 @@
+-- begin CEDE_CUSTOMER
+alter table CEDE_CUSTOMER add constraint FK_CEDE_CUSTOMER_ON_TYPE foreign key (TYPE_ID) references CEDE_CUSTOMER_TYPE(ID)^
+create index IDX_CEDE_CUSTOMER_ON_TYPE on CEDE_CUSTOMER (TYPE_ID)^
+-- end CEDE_CUSTOMER
+-- begin CEDE_ORDER
+alter table CEDE_ORDER add constraint FK_CEDE_ORDER_CUSTOMER foreign key (CUSTOMER_ID) references CEDE_CUSTOMER(ID)^
+create index IDX_CEDE_ORDER_CUSTOMER on CEDE_ORDER (CUSTOMER_ID)^
+-- end CEDE_ORDER

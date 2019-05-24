@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<views xmlns="http://schemas.haulmont.com/cuba/view.xsd">
+    <view class="com.rtcab.cede.entity.Customer"
+          extends="_local"
+          name="customer-view" systemProperties="true">
+        <property name="type"
+                  view="_minimal"/>
+        <property name="orders" view="_local" />
+    </view>
+    <view entity="cede_Order" name="order-with-deletion-info" extends="_local" systemProperties="true"/>
+</views>

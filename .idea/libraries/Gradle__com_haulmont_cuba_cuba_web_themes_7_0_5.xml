@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.haulmont.cuba:cuba-web:themes:7.0.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-web/7.0.5/f023a9fdd9d612b113304b3be5bc44e3a2e7f56/cuba-web-7.0.5-themes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-web/7.0.5/812e6bd04b2ac24cbfef8ea0db54199d30e0878/cuba-web-7.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

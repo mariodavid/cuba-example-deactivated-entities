@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="044824f0-cc08-472a-8647-7f88461d129e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/modules/core/.gradle/" />
+    <ignored path="$PROJECT_DIR$/modules/core/build/" />
+    <ignored path="$PROJECT_DIR$/modules/core/out/" />
+    <ignored path="$PROJECT_DIR$/modules/global/.gradle/" />
+    <ignored path="$PROJECT_DIR$/modules/global/build/" />
+    <ignored path="$PROJECT_DIR$/modules/global/out/" />
+    <ignored path="$PROJECT_DIR$/modules/web/.gradle/" />
+    <ignored path="$PROJECT_DIR$/modules/web/build/" />
+    <ignored path="$PROJECT_DIR$/modules/web/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customer/customer-browse.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            </state>
+          </provider>
+          <provider editor-type-id="cuba_designer_properties" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customertype/CustomerTypeBrowse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customer/CustomerBrowse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/order/order-browse.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+            </state>
+          </provider>
+          <provider editor-type-id="cuba_designer_properties" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customertype/customer-type-edit.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            </state>
+          </provider>
+          <provider editor-type-id="cuba_designer_properties" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customer/CustomerEdit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#869#870#0" expanded="true" />
+                <element signature="e#896#897#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customertype/CustomerTypeEdit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#605#606#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/screen/StandardEditor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="356" column="13" selection-start-line="356" selection-start-column="13" selection-end-line="356" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/WithInactivityOptionSupport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/global/src/com/rtcab/cede/entity/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="e#1063#1064#0" expanded="true" />
+                <element signature="e#1092#1093#0" expanded="true" />
+                <element signature="e#1141#1142#0" expanded="true" />
+                <element signature="e#1177#1178#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="cuba_entity_properties" />
+          <provider editor-type-id="cuba_entity_ddl" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Entity" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cede$Customer</find>
+      <find>cede$</find>
+      <find>readOnly</find>
+      <find>EYE</find>
+      <find>softDeletion</find>
+      <find>view</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>cede_</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web-screens.xml" />
+        <option value="$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customertype/CustomerTypeBrowse.java" />
+        <option value="$PROJECT_DIR$/modules/global/src/com/rtcab/cede/entity/WithInactivityOption.java" />
+        <option value="$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customer/messages.properties" />
+        <option value="$PROJECT_DIR$/modules/global/src/com/rtcab/cede/entity/Order.java" />
+        <option value="$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/order/order-browse.xml" />
+        <option value="$PROJECT_DIR$/modules/global/src/com/rtcab/cede/entity/Customer.java" />
+        <option value="$PROJECT_DIR$/modules/global/src/com/rtcab/cede/views.xml" />
+        <option value="$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customer/CustomerBrowse.java" />
+        <option value="$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customer/customer-edit.xml" />
+        <option value="$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customer/customer-browse.xml" />
+        <option value="$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customer/CustomerEdit.java" />
+        <option value="$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customer/WithInactivityOptionSupport.java" />
+        <option value="$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/WithInactivityOptionSupport.java" />
+        <option value="$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customertype/CustomerTypeEdit.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="80" />
+    <option name="height" value="22" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cuba-example-deactivated-entities" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cuba-example-deactivated-entities" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cuba-example-deactivated-entities" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="global" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cuba-example-deactivated-entities" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="global" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cuba-example-deactivated-entities" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="global" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cuba-example-deactivated-entities" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="global" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rtcab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cuba-example-deactivated-entities" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="global" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rtcab" type="462c0819:PsiDirectoryNode" />
+              <item name="cede" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cuba-example-deactivated-entities" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="global" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rtcab" type="462c0819:PsiDirectoryNode" />
+              <item name="cede" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cuba-example-deactivated-entities" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cuba-example-deactivated-entities" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cuba-example-deactivated-entities" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cuba-example-deactivated-entities" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rtcab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cuba-example-deactivated-entities" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rtcab" type="462c0819:PsiDirectoryNode" />
+              <item name="cede" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cuba-example-deactivated-entities" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rtcab" type="462c0819:PsiDirectoryNode" />
+              <item name="cede" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cuba-example-deactivated-entities" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rtcab" type="462c0819:PsiDirectoryNode" />
+              <item name="cede" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="customer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cuba-example-deactivated-entities" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rtcab" type="462c0819:PsiDirectoryNode" />
+              <item name="cede" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="customertype" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cuba-example-deactivated-entities" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rtcab" type="462c0819:PsiDirectoryNode" />
+              <item name="cede" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: com.haulmont.cuba:cuba-gui:7.0.5" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: com.haulmont.cuba:cuba-gui:7.0.5" type="70bed36:NamedLibraryElementNode" />
+              <item name="cuba-gui-7.0.5.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: com.haulmont.cuba:cuba-gui:7.0.5" type="70bed36:NamedLibraryElementNode" />
+              <item name="cuba-gui-7.0.5.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: com.haulmont.cuba:cuba-gui:7.0.5" type="70bed36:NamedLibraryElementNode" />
+              <item name="cuba-gui-7.0.5.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haulmont" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: com.haulmont.cuba:cuba-gui:7.0.5" type="70bed36:NamedLibraryElementNode" />
+              <item name="cuba-gui-7.0.5.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haulmont" type="462c0819:PsiDirectoryNode" />
+              <item name="cuba" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: com.haulmont.cuba:cuba-gui:7.0.5" type="70bed36:NamedLibraryElementNode" />
+              <item name="cuba-gui-7.0.5.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haulmont" type="462c0819:PsiDirectoryNode" />
+              <item name="cuba" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: com.haulmont.cuba:cuba-gui:7.0.5" type="70bed36:NamedLibraryElementNode" />
+              <item name="cuba-gui-7.0.5.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haulmont" type="462c0819:PsiDirectoryNode" />
+              <item name="cuba" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: com.haulmont.cuba:cuba-gui:7.0.5" type="70bed36:NamedLibraryElementNode" />
+              <item name="cuba-gui-7.0.5.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="haulmont" type="462c0819:PsiDirectoryNode" />
+              <item name="cuba" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="cubaProjectView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="3e3ce59f:CubaViewProjectNode" />
+              <item name="Project" type="10fe70ea:ProjectSection" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="3e3ce59f:CubaViewProjectNode" />
+              <item name="Project" type="10fe70ea:ProjectSection" />
+              <item name="Modules" type="8f11c1f3:ModulesSection" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="3e3ce59f:CubaViewProjectNode" />
+              <item name="Project" type="10fe70ea:ProjectSection" />
+              <item name="Modules" type="8f11c1f3:ModulesSection" />
+              <item name="global" type="db4fcd5d:ModuleSettingsSection" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="3e3ce59f:CubaViewProjectNode" />
+              <item name="Data Model" type="9e413f45:DataModelSection" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="3e3ce59f:CubaViewProjectNode" />
+              <item name="Data Model" type="9e413f45:DataModelSection" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="3e3ce59f:CubaViewProjectNode" />
+              <item name="Data Model" type="9e413f45:DataModelSection" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rtcab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="3e3ce59f:CubaViewProjectNode" />
+              <item name="Data Model" type="9e413f45:DataModelSection" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rtcab" type="462c0819:PsiDirectoryNode" />
+              <item name="cede" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="3e3ce59f:CubaViewProjectNode" />
+              <item name="Data Model" type="9e413f45:DataModelSection" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rtcab" type="462c0819:PsiDirectoryNode" />
+              <item name="cede" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="3e3ce59f:CubaViewProjectNode" />
+              <item name="Data Model" type="9e413f45:DataModelSection" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rtcab" type="462c0819:PsiDirectoryNode" />
+              <item name="cede" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="Customer" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="3e3ce59f:CubaViewProjectNode" />
+              <item name="Middleware" type="b326c000:MiddlewareSection" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="3e3ce59f:CubaViewProjectNode" />
+              <item name="Generic UI" type="75975f5b:GenericUiSection" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="3e3ce59f:CubaViewProjectNode" />
+              <item name="Generic UI" type="75975f5b:GenericUiSection" />
+              <item name="Screens" type="c003e550:ScreensSection" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="3e3ce59f:CubaViewProjectNode" />
+              <item name="Generic UI" type="75975f5b:GenericUiSection" />
+              <item name="Screens" type="c003e550:ScreensSection" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="3e3ce59f:CubaViewProjectNode" />
+              <item name="Generic UI" type="75975f5b:GenericUiSection" />
+              <item name="Screens" type="c003e550:ScreensSection" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rtcab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="3e3ce59f:CubaViewProjectNode" />
+              <item name="Generic UI" type="75975f5b:GenericUiSection" />
+              <item name="Screens" type="c003e550:ScreensSection" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rtcab" type="462c0819:PsiDirectoryNode" />
+              <item name="cede" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="3e3ce59f:CubaViewProjectNode" />
+              <item name="Generic UI" type="75975f5b:GenericUiSection" />
+              <item name="Screens" type="c003e550:ScreensSection" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rtcab" type="462c0819:PsiDirectoryNode" />
+              <item name="cede" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="3e3ce59f:CubaViewProjectNode" />
+              <item name="Generic UI" type="75975f5b:GenericUiSection" />
+              <item name="Screens" type="c003e550:ScreensSection" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rtcab" type="462c0819:PsiDirectoryNode" />
+              <item name="cede" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="customer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="3e3ce59f:CubaViewProjectNode" />
+              <item name="Generic UI" type="75975f5b:GenericUiSection" />
+              <item name="Screens" type="c003e550:ScreensSection" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rtcab" type="462c0819:PsiDirectoryNode" />
+              <item name="cede" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="customertype" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuba-example-deactivated-entities" type="3e3ce59f:CubaViewProjectNode" />
+              <item name="Runs At..." type="eaf73431:UrlsSection" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.rtcab.cede.web.customer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CUBA Application.CUBA Application">
+    <configuration name="localhost:8787" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="8787" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CUBA Application" type="cubaTomcatConfiguration" factoryName="CUBA Application" jdk="#JAVA_HOME">
+      <predefined_log_file enabled="true" id="catalina" />
+      <method v="2">
+        <option name="CheckDataBaseTaskProvider" enabled="true" />
+        <option name="DeployTomcatTaskProvider" enabled="true" />
+        <option name="CopyDbDriversTaskProvider" enabled="true" />
+        <option name="DeployCubaApplicationTaskProvider" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="044824f0-cc08-472a-8647-7f88461d129e" name="Default Changelist" comment="" />
+      <created>1558692865133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558692865133</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25040388" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32846716" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.42773724" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.17927462" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/model/impl/InstanceLoaderImpl.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>customersDl.getParameters()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web-screens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/global/src/com/rtcab/cede/entity/WithInactivityOption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customer/messages.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/icons/Icons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/screen/ScreenContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/icons/CubaIcon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="294" column="7" selection-start-line="294" selection-start-column="4" selection-end-line="294" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/components/AbstractEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="204" column="21" lean-forward="true" selection-start-line="204" selection-start-column="21" selection-end-line="204" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#21305#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/order/OrderBrowse.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/order/order-edit.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="cuba_designer_properties" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/order/OrderEdit.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/163881279b135059077552ae38c4fab1285ede05/cuba-gui-7.0.5.jar!/com/haulmont/cuba/gui/components/EntityCombinedScreen.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/components/actions/EditAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1282">
+          <caret line="182" column="21" selection-start-line="182" selection-start-column="21" selection-end-line="182" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#18938#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-web/7.0.5/812e6bd04b2ac24cbfef8ea0db54199d30e0878/cuba-web-7.0.5-sources.jar!/com/haulmont/cuba/web/sys/WebScreens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6540">
+          <caret line="535" selection-start-line="535" selection-end-line="535" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/actions/list/EditAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1635">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/model/impl/InstanceLoaderImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/components/data/value/ValueBinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <folding>
+            <element signature="e#0#11411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/global/src/com/rtcab/cede/entity/CustomerType.java">
+      <provider editor-type-id="cuba_entity_properties" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+      <provider editor-type-id="cuba_entity_ddl" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/components/TextInputField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="24" column="78" lean-forward="true" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="78" />
+          <folding>
+            <element signature="e#0#7349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/global/src/com/rtcab/cede/entity/Order.java">
+      <provider editor-type-id="cuba_entity_properties" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+      <provider editor-type-id="cuba_entity_ddl" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/global/src/com/rtcab/cede/views.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+      <provider editor-type-id="cuba_view_config" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/components/BoxLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/components/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="93" column="9" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/components/Table.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/components/ListComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/components/HasButtonsPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/components/ButtonsPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/components/ComponentContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1284">
+          <caret line="105" column="26" selection-start-line="105" selection-start-column="26" selection-end-line="105" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/163881279b135059077552ae38c4fab1285ede05/cuba-gui-7.0.5.jar!/com/haulmont/cuba/gui/screen/window.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/screen/Screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="118" column="23" selection-start-line="118" selection-start-column="23" selection-end-line="118" selection-end-column="23" />
+          <folding>
+            <element signature="e#3349#3350#0" expanded="true" />
+            <element signature="e#3382#3383#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customer/customer-edit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding>
+            <element signature="e#1356#1401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="cuba_designer_properties" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customertype/customer-type-browse.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="cuba_designer_properties" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customer/customer-browse.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+      <provider editor-type-id="cuba_designer_properties" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/model/DataContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4054">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/model/ScreenData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customertype/customer-type-edit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+      <provider editor-type-id="cuba_designer_properties" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-gui/7.0.5/3286a94eaba0452b383c9069f619fd8d8af694a9/cuba-gui-7.0.5-sources.jar!/com/haulmont/cuba/gui/screen/StandardEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="356" column="13" selection-start-line="356" selection-start-column="13" selection-end-line="356" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/global/src/com/rtcab/cede/entity/Customer.java">
+      <provider editor-type-id="cuba_entity_properties" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="true" />
+            <element signature="e#1141#1142#0" expanded="true" />
+            <element signature="e#1177#1178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="cuba_entity_ddl" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/WithInactivityOptionSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customer/CustomerEdit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customertype/CustomerTypeEdit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customertype/CustomerTypeBrowse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/customer/CustomerBrowse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/web/src/com/rtcab/cede/web/order/order-browse.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+      <provider editor-type-id="cuba_designer_properties" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cuba-example-deactivated-entities</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

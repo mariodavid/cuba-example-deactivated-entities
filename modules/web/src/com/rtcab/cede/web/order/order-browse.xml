@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://schemas.haulmont.com/cuba/window.xsd"
+        caption="msg://browseCaption"
+        class="com.rtcab.cede.web.order.OrderBrowse"
+        focusComponent="ordersTable"
+        lookupComponent="ordersTable"
+        messagesPack="com.rtcab.cede.web.order">
+    <dsContext>
+        <groupDatasource id="ordersDs"
+                         class="com.rtcab.cede.entity.Order"
+                         softDeletion="false"
+                         view="order-with-deletion-info">
+            <query>
+                <![CDATA[select e from cede_Order e]]>
+            </query>
+        </groupDatasource>
+    </dsContext>
+    <dialogMode height="600"
+                width="800"/>
+    <layout expand="ordersTable"
+            spacing="true">
+        <filter id="filter"
+                applyTo="ordersTable"
+                datasource="ordersDs">
+            <properties include=".*"/>
+        </filter>
+        <groupTable id="ordersTable"
+                    width="100%">
+            <actions>
+                <action id="create"
+                        openType="NEW_TAB"/>
+                <action id="edit"
+                        openType="NEW_TAB"/>
+                <action id="remove"/>
+            </actions>
+            <columns>
+                <column id="orderDate"/>
+                <column id="deletedBy"/>
+                <column id="deleteTs"/>
+            </columns>
+            <rows datasource="ordersDs"/>
+            <rowsCount/>
+            <buttonsPanel id="buttonsPanel"
+                          alwaysVisible="true">
+                <button id="createBtn" action="ordersTable.create"/>
+                <button id="editBtn" action="ordersTable.edit"/>
+                <button id="removeBtn" action="ordersTable.remove"/>
+            </buttonsPanel>
+        </groupTable>
+    </layout>
+</window>
