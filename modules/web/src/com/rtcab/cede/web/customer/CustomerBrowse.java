@@ -20,7 +20,7 @@ public class CustomerBrowse extends StandardLookup<Customer> {
     protected CollectionContainer<Customer> customersDc;
 
 
-    boolean activeFilterState = true;
+    private boolean activeFilterState = true;
 
     @Inject
     protected Button toggleInactiveBtn;
@@ -46,7 +46,6 @@ public class CustomerBrowse extends StandardLookup<Customer> {
             activateActiveFilter();
             toggleActiveFilterState();
             renderShowInactiveButton();
-
         }
         else {
             deactivateActiveFilter();
